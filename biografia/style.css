@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    background-color: #FAFBFF;
+    width: 100%;
+    height: 300px;
+    padding: 40px;
+   
+
+
+}
+
+.biografia{
+    display: flex;
+    justify-content: center;
+    margin: 50px 50px 30px 50px;
+}
+
+.biografia h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5px;
+}
+
+.biografia p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #9c9c9c;
+}
+
+.biografia i{
+    font-size: 25px;
+    margin-top: 40px;
+    margin-right: 10px;
+   
+}
+
+img{
+    width: 150px;
+    box-shadow: -45px -20px rgba(31, 31, 31, 0.9); 
+    margin-right: 25px;
+
+}
+
+.desc{
+    text-align: center;
+    color: #9c9c9c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 550;
+
+}
